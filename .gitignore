@@ -1,13 +1,10 @@
+# Python cache files
 __pycache__/
 *.pyc
 
----
-
-Virtual environment
+# Virtual environment
 venv/
 
----
-
-OS files
+# OS files
 .DS_Store
 Thumbs.db
