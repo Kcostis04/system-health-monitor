@@ -1,7 +1,7 @@
 # system-health-monitor
 🖥️ System Health Monitor
 
-A simple Python project that monitors system performance in real time.
+A beginner friendly Python project that monitors CPU, memory, and disk usage in real time.
 
 ---
 
