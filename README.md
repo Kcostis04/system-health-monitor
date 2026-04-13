@@ -22,11 +22,8 @@ pip install -r requirements.txt
 3. Run the script:
 python monitor.py
 
-📷 Example Output
-System Health Monitor  
-CPU: 5%  
-Memory: 40%  
-Disk: 70% 
+📷 Example Output - from my own test
+<img width="505" height="105" alt="Working system health check " src="https://github.com/user-attachments/assets/7a9e562b-e54f-43a7-b52e-affcdb005d0c" />
 
 📚 What I Learned
 - How to use Python libraries
