@@ -3,17 +3,20 @@
 
 A simple Python project that monitors system performance in real time.
 
+---
 
 📌 Features
 - CPU usage monitoring
 - Memory usage tracking
 - Disk usage reporting
 
+---
 
 🛠️ Technologies
 - Python
 - psutil
 
+---
 
 ❓ How to Run
 1. Clone the repository:
@@ -43,6 +46,7 @@ python monitor.py
 - How to interact with system resources
 - How to use Git and GitHub
 
+---
 
 👤 Author
 Kai Costis.
