@@ -53,5 +53,13 @@ python monitor.py
 
 ---
 
+🚧 Future Improvements
+- Add auto refresh
+- Export results to a log file
+- Add alerts for high CPU or memory usage
+- build simple GUI dashboard
+
+---
+
 👤 Author
 Kai Costis.
