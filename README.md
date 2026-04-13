@@ -26,7 +26,9 @@ python monitor.py
 
 
 
+
 <img width="505" height="105" alt="Working system health check " src="https://github.com/user-attachments/assets/a5d79c64-914c-4cdf-b055-db2e98ad6e3a" />
+
 
 
 📚 What I Learned
