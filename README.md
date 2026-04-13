@@ -22,6 +22,9 @@ A simple Python project that monitors system performance in real time.
 1. Clone the repository:
 git clone https://github.com/YOUR_USERNAME/system-health-monitor.git
 
+
+---
+
 2. Install dependencies:
 pip install -r requirements.txt
 
@@ -39,7 +42,7 @@ python monitor.py
 
 
 
-
+---
 
 📚 What I Learned
 - How to use Python libraries
